@@ -1,14 +1,22 @@
 {
   "name": "Sea Swap Token",
   "symbol": "SST",
-"description": "Sea Swap Token (SST) is the official utility token of SeaSwap – a powerful decentralized exchange (DEX) on Solana. SeaSwap allows seamless token swapping, staking for rewards, participating in liquidity pools, and bridging assets. With access to top Solana tokens and the lowest trading fees, SST powers the full SeaSwap ecosystem."
+  "description": "The official token of Sea Swap",
   "image": "https://raw.githubusercontent.com/ShayanAcademy/sst-token-data/main/logo.png",
-  "decimals": 9,
+  "extensions": {
+    "website": "https://seaswap.io"
+  },
   "properties": {
-    "category": "token",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ShayanAcademy/sst-token-data/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
     "creators": [
       {
-        "address": "YOUR_WALLET_ADDRESS",
+        "address": "Dspt2oA3nrdseyzQ7UZVBkyTUBpUE6hrDaBHLEFaG9Vs",
         "share": 100
       }
     ]
