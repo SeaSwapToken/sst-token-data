@@ -2,14 +2,14 @@
   "name": "Sea Swap Token",
   "symbol": "SST",
   "description": "The official token of Sea Swap",
-  "image": "https://github.com/SeaSwapToken/sst-token-data/blob/main/logo.png",
+  "image": "https://raw.githubusercontent.com/SeaSwapToken/sst-token-data/main/logo.png",
   "extensions": {
     "website": "https://seaswap.io"
   },
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/SeaSwapToken/sst-token-data/blob/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/SeaSwapToken/sst-token-data/main/logo.png",
         "type": "image/png"
       }
     ],
